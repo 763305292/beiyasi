@@ -2493,7 +2493,7 @@ body[data-layout=horizontal][data-layout-size=boxed] .container-fluid, body[data
   border: 0px;
 }
 @media (min-width: 768px) and (max-width: 1399.98px) {
-  .dash-header-box .col:nth-child(3) {
+  .dash-header-box .col:nth-child(4) {
     border-left: 0px;
   }
 }
